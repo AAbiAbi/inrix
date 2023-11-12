@@ -1,0 +1,3 @@
+[submodule "INRIXHackTokenAPI"]
+	path = INRIXHackTokenAPI
+	url = https://github.com/SCUACM/INRIXHackTokenAPI.git
